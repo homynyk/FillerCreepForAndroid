@@ -1,5 +1,7 @@
+/*
+ * Some nice C style block comments
+ */
 
-// Some comment
 public class TestClass
 {
 
